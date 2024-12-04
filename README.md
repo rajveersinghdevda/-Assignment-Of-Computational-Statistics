@@ -40,6 +40,7 @@ Lab Assignment: BTIT507N, Programming with Python
 37.	Create a function that raises an exception if the input is not a positive number.
 38.	Implement a program that uses assertions to check the validity of user input.
 39.	Write a function to demonstrate the use of try-except blocks when dividing numbers.
+              Question Number 40 - 79 in one file
 40.	Create a program that captures and logs exceptions thrown in a mathematical computation.
 41.	Define a class for a Rectangle that calculates the area and perimeter.
 42.	Create a class that models a BankAccount with methods to deposit and withdraw funds.
